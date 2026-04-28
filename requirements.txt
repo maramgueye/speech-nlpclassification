@@ -1,0 +1,13 @@
+openai-whisper
+transformers
+datasets
+librosa
+soundfile
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+gensim
+jupyter
