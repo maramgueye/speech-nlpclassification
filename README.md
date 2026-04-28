@@ -19,7 +19,7 @@ des modèles NLP pour classifier les phrases.
 
 
 ## Auteure
-Maram Sall GUEYE dans le cadre d'une préparation pour mon summer
+Fait par Maram Sall Gueye dans le cadre d'une préparation pour mon summer
 
 ## Installation
 pip install -r requirements.txt
