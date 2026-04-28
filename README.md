@@ -23,3 +23,4 @@ Maram Sall GUEYE dans le cadre d'une préparation pour mon summer
 
 ## Installation
 pip install -r requirements.txt
+# speech-nlpclassification
